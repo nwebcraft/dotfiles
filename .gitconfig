@@ -1,0 +1,15 @@
+[core]
+	editor = vim
+[color]
+	ui = true
+[alias]
+	st = status
+	br = branch
+	bra = branch -a
+	sl = stash list
+	co = checkout
+	sta = stash
+	l = log
+	di = diff
+	stp = stash pop
+
